@@ -54,8 +54,8 @@ Firebase is used as the backend to handle authentication, data storage (Firestor
 ## Screenshots
 
 <img width="1347" alt="Screenshot 2025-06-15 at 11 03 43" src="https://github.com/user-attachments/assets/f5b4383a-171f-4d59-ab0a-a1da0fc730a9" />
-<img width="1376" alt="Screenshot 2025-06-15 at 11 04 13" src="https://github.com/user-attachments/assets/156c0935-f83d-4ffc-9628-6c22b8ba212d" />
-<img width="1364" alt="Screenshot 2025-06-15 at 11 04 40" src="https://github.com/user-attachments/assets/d8399ab5-2447-4842-90ec-ad843ed83b69" />
+
+
 
 
 
