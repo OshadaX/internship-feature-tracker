@@ -57,8 +57,4 @@ Firebase is used as the backend to handle authentication, data storage (Firestor
 
 ---
 
-## Setup & Installation
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/onedata-internship-project.git
