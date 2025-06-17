@@ -1,4 +1,4 @@
-# Internship Project – OneData Software Solutions.
+# Internship Project – OneData Software Solutions
 
 > A React and Firebase-based project management module developed during my internship at OneData Software Solutions, featuring project view and list pages, task management, and sprint planning.
 
